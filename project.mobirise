@@ -59,7 +59,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/weaed-logo-128x128.png",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
