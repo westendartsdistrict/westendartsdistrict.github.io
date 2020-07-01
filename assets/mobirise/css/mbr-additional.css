@@ -1092,6 +1092,9 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-s0e0WAralK .links {
+  text-align: center;
+}
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
   transition: all .3s;
@@ -1515,6 +1518,9 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-s0MvA2PK6Z .links {
+  text-align: center;
 }
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
@@ -1942,7 +1948,7 @@ section.lazy-placeholder:after {
 }
 .cid-s0MvBSn7ph .links {
   color: #1c1c1c;
-  text-align: right;
+  text-align: center;
 }
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
@@ -2371,6 +2377,9 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-s0MvF2LDiM .links {
+  text-align: center;
+}
 .cid-s0CboJwWJV {
   padding-top: 0px;
   padding-bottom: 45px;
@@ -2523,6 +2532,9 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-s0MvGLklGm .links {
+  text-align: center;
 }
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
@@ -2960,6 +2972,9 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-s0MvNzfLou .links {
+  text-align: center;
+}
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
   transition: all .3s;
@@ -3396,6 +3411,9 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-s0MvSHsKoC .links {
+  text-align: center;
+}
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
   transition: all .3s;
@@ -3831,6 +3849,10 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-s0OPKXnoid .links {
+  text-align: center;
+  color: #1c1c1c;
 }
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
@@ -4628,6 +4650,10 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-s0OPPrXvRp .links {
+  color: #1c1c1c;
+  text-align: center;
+}
 .cid-s0CbDT14u9 {
   padding-top: 0px;
   padding-bottom: 45px;
@@ -4793,6 +4819,10 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-s0OPSVQpIO .links {
+  color: #1c1c1c;
+  text-align: center;
 }
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
@@ -5125,7 +5155,7 @@ section.lazy-placeholder:after {
   z-index: 2;
 }
 .cid-s0cMV7xBa7 .image-block:hover:before {
-  opacity: 0.4;
+  opacity: 0.3;
 }
 .cid-s0cMV7xBa7 .image-block:hover .wrap {
   opacity: 1;
@@ -5943,6 +5973,9 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.cid-s1HJxGxuHK .links {
+  text-align: center;
+}
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
   transition: all .3s;
@@ -6301,4 +6334,7 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-s2QfMV33RY .links {
+  text-align: center;
 }
