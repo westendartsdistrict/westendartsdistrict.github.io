@@ -1000,11 +1000,12 @@ section.lazy-placeholder:after {
   color: #faf0e1 !important;
 }
 .cid-s0MuIarB9w {
-  background: #ffffff;
+  background: #faf0e1;
+  padding-top: 75px;
+  padding-bottom: 0px;
 }
 .cid-s0MuIarB9w .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-s0MuIarB9w .mbr-figure {
   margin: 0 auto;
@@ -1023,7 +1024,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rYx31Kvzwn {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #3c555a;
 }
@@ -4506,6 +4507,11 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-sjgfAyktOA .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-sjgfAyktOA .media-container-row {
+    -webkit-flex-direction: row-reverse;
   }
 }
 @media (max-width: 991px) {
@@ -4513,6 +4519,13 @@ section.lazy-placeholder:after {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-sjgfAyktOA .media-container-row {
+    -webkit-flex-direction: column-reverse;
   }
 }
 @media (max-width: 300px) {
@@ -4525,24 +4538,6 @@ section.lazy-placeholder:after {
 }
 .cid-sjgfAyktOA .mbr-text {
   color: #3c555a;
-}
-.cid-sjgfcDpdBA {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-sjgfcDpdBA .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sjgfcDpdBA .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-sjgfcDpdBA .mbr-text {
-  color: #767676;
 }
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
@@ -5019,11 +5014,6 @@ section.lazy-placeholder:after {
 @media (min-width: 992px) {
   .cid-siOI0TOU2z .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-  .cid-siOI0TOU2z .media-container-row {
-    -webkit-flex-direction: row-reverse;
   }
 }
 @media (max-width: 991px) {
@@ -5031,13 +5021,6 @@ section.lazy-placeholder:after {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    padding-top: 1rem;
-    margin-top: 2rem;
-  }
-  .cid-siOI0TOU2z .media-container-row {
-    -webkit-flex-direction: column-reverse;
   }
 }
 @media (max-width: 300px) {
