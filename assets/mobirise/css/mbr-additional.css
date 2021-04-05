@@ -4905,8 +4905,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-stJrBvmqLy {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #faf0e1;
 }
 .cid-stJrBvmqLy h2 {
@@ -4967,8 +4967,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sku00Bi1O9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #faf0e1;
 }
 .cid-sku00Bi1O9 h2 {
@@ -12761,4 +12761,13 @@ section.lazy-placeholder:after {
 .cid-s0MfdMa6Ms .nav-link:hover,
 .cid-s0MfdMa6Ms .dropdown-item:hover {
   color: #faf0e1 !important;
+}
+.cid-stJv9hZHgm {
+  padding-top: 120px;
+  padding-bottom: 75px;
+  background-color: #faf0e1;
+}
+.cid-stJv9hZHgm .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
 }
