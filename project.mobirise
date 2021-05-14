@@ -70,7 +70,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/westend-logo.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/westend-symbol-black.svg",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
