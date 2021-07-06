@@ -11896,6 +11896,29 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sCpEjNkGQi {
+  background: #ffffff;
+}
+.cid-sCpEjNkGQi .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-sCpEjNkGQi .mbr-figure {
+  margin: 0 auto;
+}
+.cid-sCpEjNkGQi figcaption {
+  position: relative;
+}
+.cid-sCpEjNkGQi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sCpEjNkGQi .image-block {
+    width: 100% !important;
+  }
+}
 .cid-sBThblUDrf {
   padding-top: 90px;
   padding-bottom: 0px;
