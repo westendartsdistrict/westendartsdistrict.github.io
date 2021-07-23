@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "West End Arts District-clone",
-    "currentPage": "page26.html",
+    "currentPage": "Westendartisthighlight.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -21200,7 +21200,7 @@
         }
       ]
     },
-    "page26.html": {
+    "Westendartisthighlight.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "West End Artist Highlights",
