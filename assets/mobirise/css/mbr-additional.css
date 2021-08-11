@@ -10285,6 +10285,20 @@ section.lazy-placeholder:after {
 .cid-siOvD9XgTK .mbr-text {
   color: #1c1c1c;
 }
+.cid-sF3urqgs0o {
+  background: #faf0e1;
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #faf0e1, #faf0e1);
+}
+.cid-sF3urqgs0o .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sF3urqgs0o .video-block {
+    width: 100% !important;
+  }
+}
 .cid-siOypI37Og {
   background: #ffffff;
 }
