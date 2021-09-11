@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "West End Arts District-clone",
-    "currentPage": "index.html",
+    "currentPage": "webstergatewaymural.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -21925,7 +21925,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "\"Han\", Oakland Mural Festival, 2018",
                 "active": false
               },
               {
@@ -21938,7 +21938,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "\"Comfort,\" Reno Mural Expo, 2017",
                 "active": false
               },
               {
@@ -21951,7 +21951,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "\"Ohgane,\" 2013",
                 "active": true
               },
               {
@@ -21964,7 +21964,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "\"Fowl,\" Eureka Street Art Festival, 2021",
                 "active": false
               }
             ]
