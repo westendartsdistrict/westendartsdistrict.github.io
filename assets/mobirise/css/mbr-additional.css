@@ -1030,9 +1030,19 @@ section.lazy-placeholder:after {
 }
 .cid-sIunjFzJfo .mbr-section-subtitle {
   color: #3c555a;
+  text-align: left;
 }
 .cid-sIunjFzJfo .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-sIunjFzJfo .btn-kickstarters {
+  background-image: url('../../../assets/images/kickstarter-logo-green.png');
+  background-size: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 185px;
+  height: 60px;
+  margin-left: 40px;
 }
 .cid-swZ12OOxfR {
   padding-top: 0px;
