@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "West End Arts District-clone",
-    "currentPage": "HealingGardenSummerSeries.html",
+    "currentPage": "webstergatewaymural.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,7 +66,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 327,
+    "uniqCompNum": 328,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -457,61 +457,11 @@
             }
           },
           "_name": "image2",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"7\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#faf0e1\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <a href=\"webstergatewaymural.html\"><img src=\"@PROJECT_PATH@/assets/images/facebook-banner-4-851x315.png\" alt=\"Webster Gateway Mural banner\" title=\"Photo by Maurice Ramirez\"></a>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"pb-5 px-3 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-figure-caption div\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"7\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#faf0e1\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <a href=\"webstergatewaymural.html\"><img src=\"@PROJECT_PATH@/assets/images/party-facebook-2220x1100.jpeg\" alt=\"Webster Gateway Mural Opening Party\" title=\"Photo by Maurice Ramirez\"></a>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"pb-5 px-3 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-figure-caption div\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_anchor": "image2-2f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s0MuIarB9w",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value",
-              "& when (@gradientBg)": {
-                "background": "linear-gradient(45deg, @bg-value, @color2)"
-              }
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#3c555a",
-              "text-align": "left"
-            },
-            ".btn": {
-              "margin": "0 0 .5rem 0"
-            },
-            "& when (@reverseContent)": {
-              ".content-row": {
-                "flex-direction": "row-reverse",
-                "-webkit-flex-direction": "row-reverse"
-              }
-            },
-            ".btn-kickstarters": {
-              "background-image": "url('/assets/images/kickstarter-logo-green.png')",
-              "background-size": "150px",
-              "background-repeat": "no-repeat",
-              "background-position": "center",
-              "width": "185px",
-              "height": "60px",
-              "margin-left": "40px"
-            }
-          },
-          "_name": "info1",
-          "_customHTML": "<section class=\"mbr-section info1\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Text on left/right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background8.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#faf0e1\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type=='color'\">\n        <input type=\"color\" name=\"color2\" title=\"Color 2\" value=\"#cebfaf\" condition=\"bg.type=='color' && gradientBg\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center content-row\">\n            <div class=\"media-container-column title col-12 col-lg-7 col-md-6\">\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-section-subtitle\">Alameda's largest mural to-date coming soon</h3>\n                <h2 mbr-if=\"showTitle\" class=\"align-left mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-4\"></h2>\n            </div>\n            <div class=\"media-container-column col-12 col-lg-5 col-md-4\">\n                <div class=\"mbr-section-btn align-right py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"webstergatewaymural.html\" data-app-placeholder=\"Type Text\">MORE INFO</a><a class=\"btn btn-kickstarters\" href=\"https://www.kickstarter.com/projects/webstergatewaymural/webster-gateway-mural-0\" data-app-placeholder=\"Type Text\" target=\"_blank\">&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "info1-8c",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "sIunjFzJfo",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -20226,144 +20176,199 @@
           "_params": {}
         },
         {
-          "alias": "mobirise4-blocks/components",
-          "_isSecondary": true,
-          "typeCompatible": "type",
+          "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
+            "background-color": "@bgColor",
+            "overflow": "hidden",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
             },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
             },
-            ".mbr-text": {
-              "margin": "0"
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
             },
-            ".text-element": {
-              "padding": "2rem",
-              "background-color": "@cardColor",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "-webkit-justify-content": "center",
-              "justify-content": "center",
-              "display": "flex"
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
             },
-            ".media-container-row": {
-              "& when (@reverseContent)": {
-                "-webkit-flex-direction": "row-reverse",
-                "flex-direction": "row-reverse"
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
               }
             },
-            ".row-element,.image-element": {
-              "padding": "0"
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
             },
-            ".image-element": {
-              "display": "flex",
-              "-webkit-justify-content": "center",
-              "justify-content": "center",
-              ".img-wrap": {
-                "width": "100% !important",
-                "img": {
-                  "width": "100%",
-                  "min-height": "100%",
-                  "object-fit": "cover",
-                  "object-position": "center center"
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
-            },
-            ".carousel-item": {
-              "-webkit-justify-content": "center",
-              "justify-content": "center"
-            },
-            ".carousel-item.active, .carousel-item-next, .carousel-item-prev": {
-              "display": "flex"
-            },
-            ".carousel-indicators": {
-              "left": "50%",
-              "margin": "20px auto 0",
-              "align-items": "center",
-              "& when (@reverseContent)": {
-                "left": "-50% !important"
-              },
-              ".active": {
-                "opacity": "1",
-                "border": "0",
-                "background-color": "@primaryColor"
-              },
-              "li": {
-                "height": "15px",
-                "width": "15px",
-                "border-radius": "50%",
-                "transition": "opacity .5s",
-                "background-color": "darken(@primaryColor, 90%)",
-                "font-size": "2rem",
-                "opacity": ".5",
-                "border-width": "0px",
-                "&:hover": {
-                  "opacity": "1"
-                }
-              }
-            },
-            ".carousel-controls": {
-              "display": "none"
-            },
-            "@media (max-width: 991px)": {
-              ".carousel-controls": {
-                "display": "block",
-                "a": {
-                  "transition": "opacity .5s",
-                  "font-size": "2rem",
-                  "span": {
-                    "padding": "10px",
-                    "border-radius": "50%",
-                    "color": "contrast(#444444)",
-                    "background": "#444444",
-                    "opacity": ".9"
-                  },
-                  "&:hover": {
-                    "span": {
-                      "opacity": "1"
-                    }
-                  }
-                }
-              },
-              ".carousel-indicators": {
-                "display": "none"
-              }
-            },
-            "@media (max-width: 540px)": {
-              ".text-element": {
-                "padding": "1rem"
-              },
-              ".carousel-controls": {
-                "display": "none"
-              }
-            },
-            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
-              ".image-element": {
-                "min-width": "50%"
-              },
-              ".media-container-row": {
-                "width": "100%"
-              }
-            },
-            "DIV": {
-              "color": "#fd5a2d"
-            },
-            ".mbr-text,.link": {
-              "color": "#3c555a"
             }
           },
-          "_name": "extSlider3",
-          "_customHTML": "<section class=\"carousel slide testimonials-slider extSlider\" group=\"Additional Blocks\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n   <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" title=\"Padding Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" inline>\n        <input type=\"range\" title=\"Padding Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n        <input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"5000\" condition=\"showAutoplay\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Underline\" name=\"showUnderline\">\n        <input type=\"color\" title=\"Underline Color\" name=\"underlineColor\" value=\"#232323\" condition=\"showUnderline\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Link\" name=\"showLink\" checked>\n        <input type=\"checkbox\" title=\"Reverse Content\" name=\"reverseContent\">\n        <input type=\"color\" title=\"Card Color\" name=\"cardColor\" value=\"#faf0e1\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#faf0e1\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay&&bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container text-center\">\n\n        <div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n            <div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n                <div class=\"carousel-item\">\n                    <div class=\"media-container-row\">\n                        <div class=\"col-lg-6 image-element align-self-stretch\">\n                            <div class=\"img-wrap\">\n                                <img src=\"@PROJECT_PATH@/assets/images/alameda-magazine-1110x899.jpg\" alt title>\n                            </div>\n                        </div>\n                        <div class=\"col-lg-6 text-element\">\n                            <div class=\"text-content\">\n                                <h2 class=\"mbr-subtitle mbr-primary pt-2 mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-subtitle\">\n                                    <i>Category</i>\n                                </h2>\n                                <h2 class=\"mbr-title pt-2 mbr-fonts-style align-center\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title,.ornament\">\n                                    Special Events\n                                </h2>\n                                <div class=\"py-3 ornament align-center\" mbr-if=\"showUnderline\">\n                                    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 133 20\" height=\"20\" width=\"80\" fill=\"{{underlineColor}}\">\n                                        <g><path d=\"M127.18,6.19C121-.05,109.94-.24,101.84.1,90.84.56,80,3.3,69.32,5.77c-8,1.86-16,3.63-24,5.72-9.21,2.41-18.6,4.72-28.14,5.19-4.1.2-8.48,0-12.16-2a6.6,6.6,0,0,1-2.7-9A5.46,5.46,0,0,1,7.07,2.77c4-.22,6.73,8.39-.08,4.58a.49.49,0,0,0-.49.84c4.88,3,10.8,0,5.4-4.91C7.6-.63.4,2.06,0,8-1,24,28.25,17,36.29,15.24,53.74,11.37,70.9,6.44,88.53,3.33c11.1-2,24.75-3.54,35.06,2.19a16,16,0,0,1,6.86,8.85c1.29,4.31-4.35,4.2-7,3.52-4.84-1.26-2.42-8,1.22-3,.61.83,2,0,1.4-.82-2.15-2.93-6.71-4.9-7.12.35s8.36,7.24,11.72,4.47C135,15.32,129.91,9,127.18,6.19Z\"></path></g>\n                                    </svg>\n                                </div>\n                                <div class=\"mbr-section-text\">\n                                    <p class=\"mbr-text mbr-light mbr-fonts-style align-center\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text,.link\"><b>Support Alameda's largest mural to date,<br>a 2,000 sq. ft. project celebrating the history, creativity and natural beauty of our Island.<br></b><br><b>Top-notch rewards await you on the kickstarter page!  Help us reach our goal. Thank you!</b></p>\n                                </div>\n                                <div mbr-text class=\"py-3 link\" mbr-if=\"showLink\"><b><a href=\"https://www.kickstarter.com/projects/webstergatewaymural/webster-gateway-mural-0\" target=\"_blank\" class=\"text-info\"><b>SUPPORT OUR KICKSTARTER</b>&nbsp;</a></b></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n            </div>\n\n            <div class=\"carousel-indicators\">\n                <li data-slide-to=\"0\" class=\"active\"></li>\n                <li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n                <li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n                <li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n                <li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n                <li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n                <li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n                <li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n                <li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n                <li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n            </div>\n            <div class=\"carousel-controls\">\n                <a class=\"carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n                  <span aria-hidden=\"true\" class=\"mbri-arrow-prev mbr-iconfont\"></span>\n                  <span class=\"sr-only\">Previous</span>\n                </a>\n                <a class=\"carousel-control-next\" role=\"button\" data-slide=\"next\">\n                  <span aria-hidden=\"true\" class=\"mbri-arrow-next mbr-iconfont\"></span>\n                  <span class=\"sr-only\">Next</span>\n                </a>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "sIxLykapZe",
-          "_anchor": "extSlider3-8u",
-          "_protectedParams": [],
+          "_name": "gallery3",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\"></div>\n    </div>\n\n</section>",
+          "_cid": "sQSRvgd6is",
+          "_anchor": "gallery3-93",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/website-5-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/website-5-800x600-800x600.png",
+                "alt": "Webster Gateway Mural",
+                "title": "Photo by Maurice Ramirez",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/website-1-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/website-1-800x600-800x600.png",
+                "alt": "Webster Gateway Mural",
+                "title": "Photo by Maurice Ramirez",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/webaite-7-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/webaite-7-800x600-800x600.png",
+                "alt": "Webster Gateway Mural",
+                "title": "Photo by Maurice Ramirez",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/website-2-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/website-2-800x600-800x600.png",
+                "alt": "Webster Gateway Mural",
+                "title": "Photo by Maurice Ramirez",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/website-9-800x533.png",
+                "thumb": "@PROJECT_PATH@/assets/images/website-9-800x533-640x426.png",
+                "alt": "Webster Gateway Mural",
+                "title": "Photo by Maurice Ramirez",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/website-11-800x533.png",
+                "thumb": "@PROJECT_PATH@/assets/images/website-11-800x533-800x533.png",
+                "alt": "Webster Gateway Mural",
+                "title": "Photo by Maurice Ramirez",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/website-8-800x533.png",
+                "thumb": "@PROJECT_PATH@/assets/images/website-8-800x533-512x340.png",
+                "alt": "Webster Gateway Mural",
+                "title": "Photo by Maurice Ramirez",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/website-6-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/website-6-800x600-640x424.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          }
         },
         {
           "alias": false,
@@ -20379,7 +20384,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#faf0e1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b style=\"font-size: 1.2rem;\">WEBSTER GATEWAY MURAL</b><br></p><p><span style=\"font-size: 1.2rem;\">Five years in the making, the Webster Gateway Mural is a 2000sq ft mural to be painted by Oakland muralist, Dave Young Kim. Located on the north side of Ceron Kitchen (formerly Otaez) at 1619 Webster St., the expansive space and high traffic location will be transformational for this pivotal block on the edge of the historic district. With themes of local natural beauty, human connections to land and sea, and Webster Street's symbiotic relationship with Alameda Naval Air Station. The mural brings together symbols that unite our community with beautiful realism that define Dave Young Kim's style.A “Gateway Mural” on Webster Street has long been at the top of the West End Arts District bucket list. A strong public art statement to welcome people to the Island, and to the budding arts district. &nbsp;In 2020, we invited 5 local muralists to submit proposals for the commission and started the search for the ideal site.</span></p><p><span style=\"font-size: 1.2rem;\">WEAD's work is driven by the knowledge that art brings people together, makes communities feel safer and stronger, and encourages empathy, inclusivity and creativity. Murals in particular can tell the community’s story, act as a visual landmark, increase foot traffic and tourism, and inspire appreciation for the arts and artists.</span></p><p><span style=\"font-size: 1.2rem;\">The Webster Gateway Mural will be a dramatic symbol declaring the arts as a central pillar to the future of the district. Help make this project happen by contributing and spreading the word.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#faf0e1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b style=\"font-size: 1.2rem;\">WEBSTER GATEWAY MURAL</b><br></p><p>The Webster Gateway Mural is a 2000sq ft homage to the character and history of Alameda’s West End.  Inspired by the bars and tattoo parlors of Webster Street, and also by the natural beauty and resources of our island city, the mural stands as a symbol of the creativity and spirit of the West End.</p><p>Background:</p><p>Almost five years ago now, WEAD board member Rachel Campos de Ivanov started campaigning for a major mural on Webster, something that would welcome people to the West End, and add some color to Webster Street. It took three years to find the right location. In late 2020, WEAD came to an agreement with Roy Campos, the owner of the building at 1619 Webster Street, and of the former Otaez Mexican Restaurant that closed this year. Having secured a site, they put out an RFP for mural artists, and set about raising the $36k budget for the project.</p><p>The WEAD board unanimously voted to work with Oakland-based artist Dave Young Kim. Kim has been painting murals for more than 15 years and his work can be found on streets and in business in Alameda, Oakland, and throughout the world. Winner of the Asian Pacific American Heritage Award, Kim’s work reflects his identity as a second generation Korean American, featuring symbols, patterns and colors from Korean culture, along with themes of displacement and integration.</p><p>Dave refers to himself as a “community artist,” meaning that he works hand-in-hand with the local community to create work that reflects and inspires them. The design for the Webster Gateway Mural reflects many hours spent talking to West End community members, learning about our his tory, and absorbing the natural beauty and quirky character of our Island. “Our goal was to introduce Dave to the widest possible scope of Alameda personalities,” says Pilbrow. “So many different themes and stories were discussed, but we wanted to give Dave the freedom to sift through all of the ideas and information and choose his own direction.” The final design incorporates references to the history of the West End, the sailors and the tattoo parlors that populated Webster street. It also highlights the natural beauty of Alameda; the birds, flowers, and cypress trees. The Latin phrase on the city official seal “prosperitasmari terra que” which translates as “prosperity from land and sea” was a key element in the process. It led to reflection on the delicate balance between man and nature that has shaped Alameda’s past, and is increasingly vital to the way we shape our future.</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-4h",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -20435,7 +20440,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#faf0e1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>DAVE YOUNG KIM (Lead Artist)</p><p>Dave Young Kim is a Korean-American, whose work deals with issues of integration and cultural assimilation. Winner of the Asian Pacific American Heritage Award, Kim specializes in spray painted works, many of which depict the rich and complex history of Korea.</p><p>Dave refers to himself as a community artist, meaning that he works hand-in-hand with the local community to create work that reflects and inspires them. His work on the Webster Gateway Mural will be the result of many hours spent talking to West End community members, learning about our history and absorbing the natural beauty and quirky character of our Island.</p><p>Dave has been painting murals for more than 15 years, his work can be found on streets and in businesses in his native Oakland and throughout the country.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#faf0e1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>DAVE YOUNG KIM (Lead Artist)</p><p>Dave Young Kim is a Korean-American, whose work deals with issues of integration and cultural assimilation. Winner of the Asian Pacific American Heritage Award, Kim specializes in spray painted works, many of which depict the rich and complex history of Korea.</p><p>Dave refers to himself as a community artist, meaning that he works hand-in-hand with the local community to create work that reflects and inspires them. His work on the Webster Gateway Mural is informed by many hours spent talking to West End community members, learning about our history and absorbing the natural beauty and quirky character of our Island.</p><p>Dave has been painting murals for more than 15 years, his work can be found on streets and in businesses in his native Oakland and throughout the country.</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-8e",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -22308,11 +22313,11 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#faf0e1\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"https://www.facebook.com/events/578520476738795\"><img src=\"@PROJECT_PATH@/assets/images/aki-concert-1200x1553.png\" width=\"1400\" alt=\"Mobirise\" title></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "sOd7WgqwiP",
+          "_anchor": "image3-92",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image3-92"
+          "_params": {}
         },
         {
           "alias": false,
