@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "West End Arts District-clone",
-    "currentPage": "page31.html",
+    "currentPage": "2ndFridayartstroll.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,7 +66,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 351,
+    "uniqCompNum": 354,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -631,7 +631,7 @@
       "settings": {
         "meta_descr": "Magickal Market",
         "title": "MAGICKAL MARKET",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -1244,7 +1244,7 @@
       "settings": {
         "meta_descr": "Point of Transition",
         "title": "POINT OF TRANSITION",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -1845,7 +1845,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "WHIMSY FEST",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -2459,7 +2459,7 @@
       "settings": {
         "meta_descr": "West End Night Market",
         "title": "WEST END NIGHT MARKET",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -3093,7 +3093,7 @@
       "settings": {
         "meta_descr": "Lunar New Year",
         "title": "LUNAR NEW YEAR",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -3727,7 +3727,7 @@
       "settings": {
         "meta_descr": "Animate Alameda",
         "title": "ANIMATE ALAMEDA",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -4361,7 +4361,7 @@
       "settings": {
         "meta_descr": "Blues Brews and BBQ",
         "title": "BBB",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -4994,7 +4994,7 @@
       "settings": {
         "meta_descr": "Get Involved",
         "title": "GET INVOLVED",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -5850,7 +5850,7 @@
       "settings": {
         "meta_descr": "News",
         "title": "NEWS",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -6706,7 +6706,7 @@
       "settings": {
         "meta_descr": "About Us",
         "title": "ABOUT US",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -9399,7 +9399,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "PRIVACY POLICY",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -9844,7 +9844,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Public Art at Alameda Point",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -10334,7 +10334,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "West End Healing and Memorial Garden",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -10824,7 +10824,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Joanna Ruckman and Adán Gutierrez-Gallegos",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -11269,7 +11269,7 @@
       "settings": {
         "meta_descr": "Community Garden and Art Expo",
         "title": "WEST END HEALING GARDEN",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -11865,7 +11865,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Animate Alameda Project Update",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -12365,7 +12365,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "CONTACT",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -12920,7 +12920,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "West End Mercantile",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -13442,7 +13442,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "BBB Mini-Fests",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -13839,7 +13839,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Call for Artist application",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -14276,7 +14276,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Healing Garden Social",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -14881,7 +14881,7 @@
       "settings": {
         "meta_descr": "Volunteer with West End Arts District",
         "title": "Volunteer sign up sheet",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -15318,7 +15318,7 @@
       "settings": {
         "meta_descr": "2021 Healing Garden Art Series",
         "title": "2021 HEALING GARDEN ART SERIES",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -19024,7 +19024,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "West End Artist Highlights",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -19866,7 +19866,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "WEBSTER GATEWAY MURAL",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -20753,7 +20753,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Must See Murals",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -21292,7 +21292,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Dance on Webster",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -21892,7 +21892,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "HEALING GARDEN PROGRAM 2021",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -23427,7 +23427,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Annual Reports",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -23897,7 +23897,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "WATERFRONT PARK LAUNCH FEST",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -24439,7 +24439,7 @@
         }
       ]
     },
-    "page31.html": {
+    "2ndFridayartstroll.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "2nd FRIDAY ART STROLL",
