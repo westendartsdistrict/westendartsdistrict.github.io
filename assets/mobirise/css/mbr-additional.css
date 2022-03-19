@@ -22023,8 +22023,24 @@ section.lazy-placeholder:after {
 .cid-s0MfdMa6Ms .dropdown-item:hover {
   color: #faf0e1 !important;
 }
-.cid-t0okjazckC {
+.cid-t0tZRSuGgM {
   padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #faf0e1;
+}
+.cid-t0tZRSuGgM .mbr-section-subtitle {
+  color: #3c555a;
+}
+.cid-t0tZRSuGgM .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-t0tZRSuGgM .btn-kickstarters {
+  background-image: url(../../../assets/images/kickstarter-logo-green.png);
+  width: 150px;
+  margin-left: 40px;
+}
+.cid-t0okjazckC {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #faf0e1;
 }
