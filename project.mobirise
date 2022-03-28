@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "West End Arts District-clone",
-    "currentPage": "WPLFPROGRAM.html",
+    "currentPage": "waterfrontparklaunchfest.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -24584,7 +24584,7 @@
             }
           },
           "_name": "map1",
-          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"EigxOTc0IEZlcnJ5IFBvaW50LCBBbGFtZWRhLCBDQSA5NDUwMSwgVVNBIjESLwoUChIJsT1dYOWAj4ARfcD9eaZl53oQtg8qFAoSCblxo9PkgI-AEemAU3yK-9qk\" value=\"1974-2028 Ferry Point, Alameda, CA 94501\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJ-wn54O-Aj4ARWhhdVMt5AhY\" value=\"2151 Ferry Point, Alameda, CA 94501\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "sZqvxX15mc",
           "_anchor": "map1-ak",
           "_protectedParams": [],
@@ -27159,7 +27159,7 @@
         }
       ]
     },
-    "WPLFPROGRAM.html": {
+    "WPLFprogram.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Waterfront Park Launch Fest Program",
