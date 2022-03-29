@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "West End Arts District-clone",
-    "currentPage": "waterfrontparklaunchfest.html",
+    "currentPage": "wplfprogram.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -27159,7 +27159,7 @@
         }
       ]
     },
-    "WPLFprogram.html": {
+    "wplfprogram.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Waterfront Park Launch Fest Program",
