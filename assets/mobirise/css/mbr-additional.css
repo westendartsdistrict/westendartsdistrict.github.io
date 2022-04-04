@@ -22958,6 +22958,116 @@ section.lazy-placeholder:after {
 .cid-s0MfdMa6Ms .dropdown-item:hover {
   color: #faf0e1 !important;
 }
+.cid-t24nZqenBk {
+  padding-top: 135px;
+  padding-bottom: 15px;
+  background-color: #faf0e1;
+}
+.cid-t24nZqenBk P {
+  color: #767676;
+}
+.cid-t24nZqenBk H1 {
+  color: #3c555a;
+}
+.cid-t24oavk1ZN {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #faf0e1;
+}
+.cid-t24oavk1ZN .mbr-text,
+.cid-t24oavk1ZN blockquote {
+  color: #767676;
+}
+.cid-t24oavk1ZN .mbr-text {
+  color: #1c1c1c;
+}
+.cid-t24ocluvkT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #faf0e1;
+}
+.cid-t24ocluvkT .mbr-section-subtitle {
+  color: #3c555a;
+}
+.cid-t24ocluvkT .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-t24ocluvkT .content-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-t24ocluvkT .btn-kickstarters {
+  background-image: url(../../../assets/images/kickstarter-logo-green.png);
+  width: 150px;
+  margin-left: 40px;
+}
+.cid-t24oeSEB90 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #faf0e1;
+}
+@media (max-width: 767px) {
+  .cid-t24oeSEB90 .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-t24oeSEB90 .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-t24oeSEB90 .media-wrap img {
+  height: 6rem;
+}
+.cid-t24oeSEB90 .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-t24oeSEB90 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-t24oeSEB90 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-t24oeSEB90 .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-t24oeSEB90 .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-t24oeSEB90 .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-t24oeSEB90 .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-t24oeSEB90 .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-t24oeSEB90 .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-t24oeSEB90 .links {
+  text-align: center;
+}
 .cid-s0MfdMa6Ms .navbar {
   min-height: 77px;
   transition: all .3s;
